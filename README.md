@@ -8,7 +8,7 @@ Este é meu portfólio de BI com projetos reais utilizando Power BI, Python, SQL
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| Vendas Automobilísticas| Análise de performance de vendas de lojas de carros | Power BI, DAX, Power Query | [Ver Projeto](./) |
+| Vendas Automobilísticas| Análise de performance de vendas de lojas de carros | Power BI, DAX, Power Query | [Ver Projeto](./Vendas Automobilísticas) |
 | Recursos Humanos | Gestão de indicadores de recursos humanos | Power BI, DAX, Power Query | [Ver Projeto](./) |
 
 ---
