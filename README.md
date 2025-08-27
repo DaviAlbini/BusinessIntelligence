@@ -19,7 +19,7 @@ Os temas variam entre setores como **governo, financeiro e social, recursos huma
 
 ## Projetos em Destaque
 
-### [Ministério das Cidades – Investimentos](./ministerio-cidades)
+### [Ministério das Cidades – Investimentos](./mcid-investimentos)
 Análise de quase **R$ 1 trilhão em investimentos públicos**, com foco em execução físico-financeira de projetos, riscos e gargalos.  
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos
 
